@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 竟山樂錄
-#+DATE: 2018-03-30 13:56:16.732410
+#+DATE: 2018-03-30 14:14:27.135405
 #+PROPERTY: ID KR1i0017
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS WYG    
@@ -456,7 +456,7 @@
 ¶
 宫調(放六凡上不用)¶
 ¶
-　　　　伬&ZX-1117f8;伵&ZX-1117fa;&ZX-1117f9;伬亿伵&KR2346;仜尺乙四六工(遞上十五)¶
+　　　　伬&KR5384;伵&KR5386;&KR5385;伬亿伵&KR2346;仜尺乙四六工(遞上十五)¶
 　　　　(聲)¶
 <pb:KR1i0017_WYG_002-25b>¶
 ¶
